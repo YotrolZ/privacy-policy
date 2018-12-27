@@ -1,57 +1,50 @@
-# Privacy Policy
+# 「工控助手」隐私保护政策
 
-built the Error Code app as a Free app. This SERVICE is provided by at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+### 信息的收集和使用
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+应用程序本身或通过第三方收集的个人数据类型包括：Cookie，使用数据，电子邮件地址和地理位置。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Error Code unless otherwise defined in this Privacy Policy.
+个人数据可由用户自定选择是否提供，或者在需要提供数据时，本应用程序会自动收集。
 
-## Information Collection and Use
+除非另有说明，否则本应用程序要求的所有数据都是强制性的，如果未提供数据，则该应用程序无法提供相应的服务。如果本应用程序明确声明某些数据不是强制性的，则用户可以自由地选择不提供数据，并且不会影响服务的可用性或功能。
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+如果用户不确定哪些个人数据是强制性的，欢迎与所有者联系。
 
-The app does use third party services that may collect information used to identify you.
+除本文档中描述的目的和 Cookie 政策中描述的目的（如果有）外，本应用程序或本应用程序使用的第三方服务的所有者对 Cookies 或其他跟踪工具的使用都是为了提供用户所需的服务。
 
-Link to privacy policy of third party service providers used by the app
 
-## Log Data
+### 广告
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+我们与各种广告客户、广告网络、广告服务器和分析公司合作。这些广告商、广告网络、广告服务器和分析公司使用各种技术和第三方公司的技术来收集数据，以便向您和其他用户发送（或服务）相关的广告。  
+这些技术可能包括放置 Cookie 或 Web 信标、使用唯一或非唯一的非个人标识符，或使用其他技术。这些技术可以用来跟踪用户行为，并可能为您提供更多相关的广告。  
+这些有针对性的广告可能出现在我们的服务或您访问的其他服务上。
 
-## Cookies
+此隐私政策不包括广告商、广告网络、广告服务器和分析公司对各种技术的使用。这些公司还可以从您使用的其他公司获得的服务中获取信息，包括不限于其他网站、移动网站、移动下载应用程序和可下载桌面应用程序，并将这些信息结合通过第三方技术在我们的服务中获得信息。  
+您应该知道，我们对这些第三方技术或其中包含的信息没有控制权。
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+您可以通过检查 iOS 设备的隐私设置并选择 “限制广告跟踪”，对移动应用程序中基于兴趣的广告服务进行退出。如果您想调整有关使用精确位置数据的选择，您也可以通过移动设备设置进行调整。
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+如欲了解更多有关广告商私隐行为及选择的可能性，请浏览以下链接：  
+Google  
+隐私政策：https://policies.google.com/privacy
 
-## Service Providers
 
-I may employ third-party companies and individuals due to the following reasons:
+### 安全
 
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+所有在服务中传输的数据和信息都是通过 SSL 协议进行安全保护的。
 
-## Security
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+### 变更
 
-## Links to Other Sites
+如果将来我们的信息条例改变了，我们将在我们的网站上发布这些政策变更并且将会通知您。我们将只会把政策变更之后收集到的数据用在新的目标上。如果您非常关心您的信息是如何被使用的，您可以定期查看我们的网站。
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+```最新更新：2018年 12月 27日```
 
-## Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+### 联系我们
+我们希望这一声明给您提供了详细且明确的说明。如有任何问题或建议，请发送电子邮件给我们 
+devzhaoyc@gmail.com
 
-## Changes to This Privacy Policy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-## Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
