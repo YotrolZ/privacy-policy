@@ -1,64 +1,62 @@
-# 「工控助手」隐私保护政策
+# "Industrial control assistant" privacy protection policy
 
-### 隐私政策
+### Privacy Policy
 
-当您使用我们的服务以及您与该数据相关的选择时，本页面会告知您有关个人数据的收集，使用和披露的政策。
+This page will inform you about the collection, use and disclosure of personal data when you use our services and your choices related to this data.
 
-### 信息的收集和使用
+### Information collection and use
 
-我们为各种目的收集了几种不同类型的信息，以便为您提供和改进我们的服务。
+We collect several different types of information for a variety of purposes to provide and improve our services.
 
-应用程序本身或通过第三方收集的个人数据类型包括但不限于：Cookie，使用数据，电子邮件地址。
+The types of personal data collected by the application itself or by third parties include, but are not limited to, cookies, usage data, and email addresses.
 
-个人数据可由用户自定选择是否提供，或者在需要提供数据时，本应用程序会自动收集。
+Personal data can be customized by the user, or the application will automatically collect it when data is needed.
 
-除非另有说明，否则本应用程序要求的所有数据都是强制性的，如果未提供数据，则该应用程序无法提供相应的服务。如果本应用程序明确声明某些数据不是强制性的，则用户可以自由地选择不提供数据，并且不会影响服务的可用性或功能。
+Unless otherwise stated, all data required by this application is mandatory, and if no data is provided, the application cannot provide the appropriate service. If the application explicitly states that certain data is not mandatory, the user is free to choose not to provide the data and does not affect the availability or functionality of the service.
 
-如果用户不确定哪些个人数据是强制性的，欢迎与所有者联系。
+If the user is not sure which personal data is mandatory, please contact the owner.
 
-除本文档中描述的目的和 Cookie 政策中描述的目的（如果有）外，本应用程序或本应用程序使用的第三方服务的所有者对 Cookies 或其他跟踪工具的使用都是为了提供用户所需的服务。
+Except for the purposes described in this document and the purposes described in the Cookie Policy (if any), the use of cookies or other tracking tools by the application or the owner of the third party services used by the application is intended to provide the user with the Service.
 
-### 广告
+### Advertising
 
-我们与各种广告客户、广告网络、广告服务器和分析公司合作。这些广告商、广告网络、广告服务器和分析公司使用各种技术和第三方公司的技术来收集数据，以便向您和其他用户发送（或服务）相关的广告。  
-这些技术可能包括放置 Cookie 或 Web 信标、使用唯一或非唯一的非个人标识符，或使用其他技术。这些技术可以用来跟踪用户行为，并可能为您提供更多相关的广告。  
-这些有针对性的广告可能出现在我们的服务或您访问的其他服务上。
+We work with a variety of advertisers, ad networks, ad servers, and analytics companies. These advertisers, ad networks, ad servers, and analytics companies use technology and technology from third-party companies to collect data to send (or service) related ads to you and other users.
+These technologies may include placing cookies or web beacons, using unique or non-unique non-personal identifiers, or using other technologies. These techniques can be used to track user behavior and may provide you with more relevant ads.
+These targeted ads may appear on our services or other services you visit.
 
-此隐私政策不包括广告商、广告网络、广告服务器和分析公司对各种技术的使用。这些公司还可以从您使用的其他公司获得的服务中获取信息，包括不限于其他网站、移动网站、移动下载应用程序和可下载桌面应用程序，并将这些信息结合通过第三方技术在我们的服务中获得信息。  
-您应该知道，我们对这些第三方技术或其中包含的信息没有控制权。
+This privacy policy does not cover the use of various technologies by advertisers, ad networks, ad servers, and analytics companies. These companies can also access information from other companies you use, including not limited to other websites, mobile websites, mobile download applications, and downloadable desktop applications, and combine this information with third-party technology in our services. Get information in .
+You should be aware that we have no control over these third party technologies or the information contained therein.
 
-您可以通过检查 iOS 设备的隐私设置并选择 “限制广告跟踪”，对移动应用程序中基于兴趣的广告服务进行退出。如果您想调整有关使用精确位置数据的选择，您也可以通过移动设备设置进行调整。
+You can opt out of interest-based advertising in mobile apps by checking your iOS device's privacy settings and selecting "Restrict ad tracking." If you want to adjust your choices about using precise location data, you can also adjust it with your mobile device settings.
 
-如欲了解更多有关广告商私隐行为及选择的可能性，请浏览以下链接：  
-Google  
-隐私政策：https://policies.google.com/privacy
-
-
-### 安全
-
-数据的安全性对我们很重要，但请记住，没有通过Internet传输的方法或电子存储方法是100％安全的。虽然我们努力使用商业上可接受的方式来保护您的个人数据，但我们无法保证其绝对的安全性。
-
-### 链接到其他网站
-我们的服务可能包含指向非我们运营的其他网站的链接。如果您点击第三方链接，您将被引导至该第三方的网站。我们强烈建议您查看您访问的每个站点的隐私政策。
-
-我们无法控制任何第三方网站或服务的内容，隐私政策或做法，也不承担任何责任。
-
-### 儿童的隐私
-
-我们的服务不适用于18岁以下的任何人（“儿童”）。
-
-我们不会故意收集18岁以下任何人的个人身份信息。如果您是父母或监护人并且您知道您的孩子已向我们提供了个人数据，请与我们联系。如果我们发现我们从儿童那里收集了个人数据而未经父母同意，我们会采取措施从我们的服务器中删除该信息。
+For more information on advertiser privacy and the possibilities, please visit the following link:
+Google
+Privacy Policy: https://policies.google.com/privacy
 
 
-### 变更
+### Safety
 
-如果将来我们的信息条例改变了，我们将在我们的网站上发布这些政策变更并且将会通知您。我们将只会把政策变更之后收集到的数据用在新的目标上。如果您非常关心您的信息是如何被使用的，您可以定期查看我们的网站。
+Data security is important to us, but keep in mind that methods or electronic storage methods that are not transmitted over the Internet are 100% secure. While we strive to protect your personal data in a commercially acceptable manner, we cannot guarantee its absolute security.
 
-```最新更新：2018年 12月 28日```
+### Link to other websites
+Our services may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to the third party's website. We strongly encourage you to review the privacy policy of each site you visit.
+
+We are unable to control the content, privacy policies or practices of any third party website or service and are not responsible for it.
+
+### Children's privacy
+
+Our services do not apply to anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you know that your child has provided us with personal data, please contact us. If we find that we have collected personal data from a child without parental consent, we will take steps to remove the information from our servers.
 
 
-### 联系我们
-我们希望这一声明给您提供了详细且明确的说明。如有任何问题或建议，请发送电子邮件给我们 
-devzhaoyc@gmail.com
+### Change
+
+If our information regulations change in the future, we will post these policy changes on our website and will notify you. We will only use the data collected after the policy change to the new target. If you are very concerned about how your information is being used, you can check our website regularly.
+
+```Latest update: December 28, 2018```
 
 
+### contact us
+We hope that this statement gives you a detailed and clear explanation. If you have any questions or suggestions, please email us.
+Devzhaoyc@gmail.com
